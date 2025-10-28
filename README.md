@@ -1,4 +1,4 @@
-# Risk Management, Compliance & Corporate Governance — The Silent Power Skills of the Future
+# Risk Management, Compliance & Corporate Governance — The Silent Power Skills for the AI-Driven Future
 
 
 ## Table of Contents
