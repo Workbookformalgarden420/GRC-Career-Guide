@@ -15,7 +15,7 @@
 ---
 
 
-The future isn’t just powered by technology — it’s protected by those who understand how to govern it. As organizations accelerate into the AI era, risk, compliance, and governance are quietly taking center stage. This article walks you through why these skills matter, which top skills to build, what they can earn you globally, and which courses can help you get started.
+*The future isn’t just powered by technology — it’s protected by those who understand how to govern it. As organizations accelerate into the AI era, risk, compliance, and governance are quietly taking center stage. This article walks you through why these skills matter, which top skills to build, what they can earn you globally, and which courses can help you get started.*
 
 
 The world of tech is evolving faster than ever, and 2026 is shaping up to be a pivotal year—not just for artificial intelligence, cloud computing, and data science, but for the once-understated domain of governance, risk, and compliance (GRC) as well. As organizations race to adopt AI responsibly, meet global data privacy laws, and align with ESG and sustainability standards, GRC has moved from the back office to the boardroom.
